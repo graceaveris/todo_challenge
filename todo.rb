@@ -12,7 +12,7 @@ if query == "add"#WORKING
 	Task.create(description: task_to_add, status:"to do")
     p "___________________________"
     p "#{task_to_add} has been added!"
-	p "___________________________"
+	p "_______________________________"
 end
 
 #now method to print all..
